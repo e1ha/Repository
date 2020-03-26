@@ -1,9 +1,7 @@
 /*
 * Filename: Escaper.java
 * Author: Elaine Ha
-* UserId: cs11s219bo
 * Date: 8/29/19
-* Sources of help: tutor
 */
 
 import objectdraw.*;
