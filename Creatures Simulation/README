@@ -1,0 +1,49 @@
+/*
+ * Filename: README
+ * Author: Elaine Ha
+ * UserId: cs11s219bo
+ * Date: 8/28/19
+ * Sources of help: none
+ */
+
+
+SortPal
+This program allows the user to type in the number of maximum lines of words
+he/she wishes to type in. After the user types them in, the program
+will determine whether the lines of words are palindromes are not. It 
+will output the list of palindromes and non-palindromes.
+
+Creatures
+This program will display an empty window with buttons. The user may create
+creatures on the window by clicking the button of the creature the
+user wants to create and then clicking the window. After user creates
+two creatures, the simulation will automaticaly start running. The seeker
+ will move to the closest creature. The bouncer will move around randomly.
+ The escaper will move away from all the other creatures. User can also start,
+ stop and, clear all the monsters from the window by clicking the buttons.
+
+1. Java interfaces don't allow user to write method bodies, while abstract
+ classes do. Another difference is that interfaces can only contain final
+ variables, while abstract classes can also contain non-final variables.  
+
+2. In both interfaces and abstract classes, user can declare abstract
+ methods and neither can be instantiated. 
+
+3. int[] a = new int [] {1,3,5,7,9}
+
+4. To set the number of spaces, use :set shiftwidth=2 and to indent use N>>,
+ where N is the number of lines you want to indent. To deindent, use N<<.
+
+5. Use >% to dindent a block. To de-indent use <%.
+
+6. 3 examples are: ananan, noon, and Sit on a potato pan.
+
+7. Helper methods for parsing command line arguments must be static 
+because they can be accessed by class that is instantiated.
+
+8. Use vim *.txt
+
+9. You can use mkdir -p fooDir/barDir
+
+10. I still do my own work and if I run out of time I just turn in my 
+assignment incomplete. 
