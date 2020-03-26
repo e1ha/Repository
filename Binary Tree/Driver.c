@@ -1,11 +1,7 @@
 /****************************************************************************
 
                                                         Elaine Ha
-							Teresa Truong
-                                                        CSE 12, Fall 2019
                                                         December 1, 2019
-                                                        cs12fa19ep
-                                Assignment Nine
 
 File Name:      Driver.c
 Description:    This program implements the functionality to read commands
