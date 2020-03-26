@@ -1,9 +1,7 @@
 /*
 * Filename: Bouncer.java
 * Author: Elaine Ha
-* UserId: cs11s219bo
 * Date: 8/28/19
-* Sources of help: tutor, textbook, lecture notes
 */
 
 import objectdraw.*;
